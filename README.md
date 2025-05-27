@@ -1,12 +1,11 @@
 ## Hi there 👋
+**Julio Cesar Thurow Buzzi**
 
 ## 🔥 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioBuzzi&layout=compact&langs_count=8&theme=dark)
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JulioBuzzi&show_icons=true&theme=dark)
-
-![GitHub trophies](https://github-profile-trophy.vercel.app/?username=JulioBuzzi&theme=onedark)
 
 
 ## 🌐 Socials
